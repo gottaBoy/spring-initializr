@@ -5,6 +5,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
+/**
+ * MinYi
+ * https://github.com/hs-web/hsweb-framework
+ */
 @SpringBootApplication
 public class InitializrApplication {
 
